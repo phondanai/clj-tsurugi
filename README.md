@@ -7,7 +7,7 @@ Right now this can do just `GET`, `SET` and `REMOVE`.
 ## Installation
 With Leiningen
 
-```[clj-tsurugi "0.0.1"]```
+```[org.clojars.phondanai/clj-tsurugi "0.0.1"]```
 
 ## Quckstart
 

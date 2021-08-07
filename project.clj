@@ -1,4 +1,4 @@
-(defproject clj-tsurugi "0.0.1"
+(defproject org.clojars.phondanai/clj-tsurugi "0.0.1"
   :description "Small Kyoto Tycoon library"
   :url "https://github.com/phondanai/clj-tsurugi"
   :license {:name "EPL-2.0 OR GPL-2.0-or-later WITH Classpath-exception-2.0"
